@@ -1,6 +1,6 @@
 # AWS Kinesis Data Streams MCP Server
 
-The official MCP Server for interacting with AWS Kinesis Data Streams
+The MCP Server for interacting with AWS Kinesis Data Streams
 
 This comprehensive server provides operational Kinesis Data Streams management with 30+ tools for managing streams, shards, records, consumers, and more.
 
