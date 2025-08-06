@@ -553,3 +553,9 @@ Monitoring: Consumer lag metrics
 ```
 
 Balances data consistency with performance overhead.
+
+#### Sample prompts
+1. Using kinesis mcp server list all the streams I have in Sydney region. 
+2. Create a new stream in provisioned mode with 2 shards. The stramname is sayem+currentday+Month+Year. Region is Sydney. 
+3. Insert a record is sayemmcp stream. Use partition key as Device123 and data as "CPU:10%, Storage: 80%"
+4. add a tag in sayemmcp stream. the tag name is dept and value is fin
